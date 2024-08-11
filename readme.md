@@ -18,7 +18,7 @@ A web application that allows users to search for music tracks on Spotify and ge
 - `script.js`: The JavaScript file for handling API requests and user interactions.
 - ## Live Demo
 
-You can view the live demo of the application [here](https://deepak20y.github.io/spotify-music-search/).
+You can view the live demo of the application [here](https://deepak20y.github.io/Music_search-recommendation_app/).
 
 
 ## Setup
