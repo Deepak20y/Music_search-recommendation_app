@@ -16,6 +16,10 @@ A web application that allows users to search for music tracks on Spotify and ge
 - `index.html`: The main HTML file that sets up the structure of the web application.
 - `styles.css`: The CSS file for styling the application.
 - `script.js`: The JavaScript file for handling API requests and user interactions.
+- ## Live Demo
+
+You can view the live demo of the application [here](https://deepak20y.github.io/spotify-music-search/).
+
 
 ## Setup
 
