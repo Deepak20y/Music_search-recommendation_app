@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify Music Search</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="app">
+        <h1>Spotify Music Search</h1>
+        <div class="radio-buttons">
+            <label><input type="radio" name="search-type" value="song" checked> Search by Song</label>
+            <label><input type="radio" name="search-type" value="artist"> Search by Artist</label>
+            <label><input type="radio" name="search-type" value="year"> Search by Year</label>
+        </div>
+        <input type="text" id="search-input" placeholder="Enter your search...">
+        <button id="search-button">Search</button>
+        <div id="results"></div>
+        <h2>Suggestions Based on Most Popular Track</h2>
+        <div id="suggestions"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
